@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "XEa1D5cp3Xmq2aI6yWu/m86PazSXha6gb9tDd17bp3M=",
+  "Source": "BlogApi",
+  "BasePath": "_content/BlogApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlogApi\\wwwroot",
+      "Source": "BlogApi",
+      "ContentRoot": "C:\\Users\\Rafael\\Desktop\\BlogApi\\wwwroot\\",
+      "BasePath": "_content/BlogApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Rafael\\Desktop\\BlogApi\\wwwroot\\images\\56b35ec2-9a50-48d1-96d9-182a2131fc80.jpg",
+      "SourceId": "BlogApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rafael\\Desktop\\BlogApi\\wwwroot\\",
+      "BasePath": "_content/BlogApi",
+      "RelativePath": "images/56b35ec2-9a50-48d1-96d9-182a2131fc80.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\56b35ec2-9a50-48d1-96d9-182a2131fc80.jpg"
+    }
+  ]
+}
